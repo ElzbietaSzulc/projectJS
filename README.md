@@ -1,1 +1,4 @@
-# projectJS
+projectJS
+=========
+
+Pong game in JS
